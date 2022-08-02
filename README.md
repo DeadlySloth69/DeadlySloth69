@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @DeadlySloth69
-- 👀 I’m interested in languages such as Python, C#, JavaScript, HTML and CSS.
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+-@DeadlySloth69
+-14 y/o 
+-Interested in game dev
+-Looking to enter game jam for first time 
+-Python
+-HTML
+-JavaScript 
+-CSS
+-C#
 
 
 <!---
