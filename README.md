@@ -1,5 +1,5 @@
--@DeadlySloth69
--14 y/o 
+-Henlo, I'm Deadly :3
+-16 y/o 
 -Interested in game dev
 -Looking to enter game jam for first time 
 -Python
@@ -8,8 +8,3 @@
 -CSS
 -C#
 
-
-<!---
-DeadlySloth69/DeadlySloth69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
